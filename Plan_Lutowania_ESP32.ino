@@ -23,8 +23,8 @@
 #include <ESPmDNS.h>
 
 // ---------- USTAWIENIA ----------
-const char* WIFI_SSID = "------------";
-const char* WIFI_PASS = "------------";
+const char* WIFI_SSID = "TWOJA_SIEC";
+const char* WIFI_PASS = "TWOJE_HASLO";
 
 // Piny karty SD (takie same jak w projektach "Magazyn czesci" / "Moje programy")
 #define SD_CS   21
